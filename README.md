@@ -24,6 +24,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 - Bend fiber and record output vs diameter  
 
 **Tabulation:**
+<img width="1600" height="1397" alt="image" src="https://github.com/user-attachments/assets/b17aeeeb-e34d-4723-8b1d-160b5e11e06f" />
 
 ### Propagation Loss
 
@@ -39,7 +40,6 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |      3cm         |        10v          |     3.6v               |
 |      4cm         |        10v          |     3.6v               |
 
-<img width="987" height="1072" alt="WhatsApp Image 2026-08-22 at 9 41 56 AM" src="https://github.com/user-attachments/assets/fe155e10-3c1f-4618-86f8-ebd0ca68523d" />
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
